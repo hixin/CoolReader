@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CoolReader</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="knowledge"> 知识走廊 </string>
+    <string name="music"> 音乐小站 </string>
+    <string name="movies"> 视频广场</string>
+    <string name="favour"> 我的收藏 </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="text_hot"> 热度 </string>
+    <string name="share">分享</string>
+    <string name="collection">收藏</string>
+    <string name="hint_share_to">分享到</string>
+    <string name="notify_add_to_collection">成功添加到收藏</string>
+    <string name="notify_remove_from_collection">成功从收藏移除!</string>
+</resources>
